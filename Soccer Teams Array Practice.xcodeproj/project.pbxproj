@@ -13,7 +13,6 @@
 		2512370518BC37A200E4340F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2512370318BC37A200E4340F /* InfoPlist.strings */; };
 		2512370718BC37A200E4340F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2512370618BC37A200E4340F /* main.m */; };
 		2512370B18BC37A200E4340F /* JJAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2512370A18BC37A200E4340F /* JJAppDelegate.m */; };
-		2512370E18BC37A200E4340F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2512370C18BC37A200E4340F /* Main.storyboard */; };
 		2512371118BC37A200E4340F /* JJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2512371018BC37A200E4340F /* JJViewController.m */; };
 		2512371318BC37A200E4340F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2512371218BC37A200E4340F /* Images.xcassets */; };
 		2512371A18BC37A200E4340F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2512371918BC37A200E4340F /* XCTest.framework */; };
@@ -21,6 +20,12 @@
 		2512371C18BC37A200E4340F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 251236FE18BC37A200E4340F /* UIKit.framework */; };
 		2512372418BC37A200E4340F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2512372218BC37A200E4340F /* InfoPlist.strings */; };
 		2512372618BC37A200E4340F /* Soccer_Teams_Array_PracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2512372518BC37A200E4340F /* Soccer_Teams_Array_PracticeTests.m */; };
+		2512373618BC37C700E4340F /* LA Galaxy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2512373218BC37C700E4340F /* LA Galaxy.jpg */; };
+		2512373718BC37C700E4340F /* NY Red Bulls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2512373318BC37C700E4340F /* NY Red Bulls.jpg */; };
+		2512373818BC37C700E4340F /* Sounders.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2512373418BC37C700E4340F /* Sounders.jpeg */; };
+		2512373918BC37C700E4340F /* Sporting KC.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2512373518BC37C700E4340F /* Sporting KC.jpeg */; };
+		2512373C18BC39D700E4340F /* MLS.m in Sources */ = {isa = PBXBuildFile; fileRef = 2512373B18BC39D700E4340F /* MLS.m */; };
+		2512374018BD123A00E4340F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2512373F18BD123A00E4340F /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +49,6 @@
 		2512370818BC37A200E4340F /* Soccer Teams Array Practice-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Soccer Teams Array Practice-Prefix.pch"; sourceTree = "<group>"; };
 		2512370918BC37A200E4340F /* JJAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JJAppDelegate.h; sourceTree = "<group>"; };
 		2512370A18BC37A200E4340F /* JJAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JJAppDelegate.m; sourceTree = "<group>"; };
-		2512370D18BC37A200E4340F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2512370F18BC37A200E4340F /* JJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JJViewController.h; sourceTree = "<group>"; };
 		2512371018BC37A200E4340F /* JJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JJViewController.m; sourceTree = "<group>"; };
 		2512371218BC37A200E4340F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -53,6 +57,13 @@
 		2512372118BC37A200E4340F /* Soccer Teams Array PracticeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Soccer Teams Array PracticeTests-Info.plist"; sourceTree = "<group>"; };
 		2512372318BC37A200E4340F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2512372518BC37A200E4340F /* Soccer_Teams_Array_PracticeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Soccer_Teams_Array_PracticeTests.m; sourceTree = "<group>"; };
+		2512373218BC37C700E4340F /* LA Galaxy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LA Galaxy.jpg"; sourceTree = "<group>"; };
+		2512373318BC37C700E4340F /* NY Red Bulls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NY Red Bulls.jpg"; sourceTree = "<group>"; };
+		2512373418BC37C700E4340F /* Sounders.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sounders.jpeg; sourceTree = "<group>"; };
+		2512373518BC37C700E4340F /* Sporting KC.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sporting KC.jpeg"; sourceTree = "<group>"; };
+		2512373A18BC39D700E4340F /* MLS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLS.h; sourceTree = "<group>"; };
+		2512373B18BC39D700E4340F /* MLS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLS.m; sourceTree = "<group>"; };
+		2512373F18BD123A00E4340F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +123,13 @@
 		2512370018BC37A200E4340F /* Soccer Teams Array Practice */ = {
 			isa = PBXGroup;
 			children = (
+				2512373F18BD123A00E4340F /* Main.storyboard */,
 				2512370918BC37A200E4340F /* JJAppDelegate.h */,
 				2512370A18BC37A200E4340F /* JJAppDelegate.m */,
-				2512370C18BC37A200E4340F /* Main.storyboard */,
 				2512370F18BC37A200E4340F /* JJViewController.h */,
 				2512371018BC37A200E4340F /* JJViewController.m */,
+				2512373A18BC39D700E4340F /* MLS.h */,
+				2512373B18BC39D700E4340F /* MLS.m */,
 				2512371218BC37A200E4340F /* Images.xcassets */,
 				2512370118BC37A200E4340F /* Supporting Files */,
 			);
@@ -126,6 +139,10 @@
 		2512370118BC37A200E4340F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2512373218BC37C700E4340F /* LA Galaxy.jpg */,
+				2512373318BC37C700E4340F /* NY Red Bulls.jpg */,
+				2512373418BC37C700E4340F /* Sounders.jpeg */,
+				2512373518BC37C700E4340F /* Sporting KC.jpeg */,
 				2512370218BC37A200E4340F /* Soccer Teams Array Practice-Info.plist */,
 				2512370318BC37A200E4340F /* InfoPlist.strings */,
 				2512370618BC37A200E4340F /* main.m */,
@@ -229,9 +246,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2512374018BD123A00E4340F /* Main.storyboard in Resources */,
+				2512373818BC37C700E4340F /* Sounders.jpeg in Resources */,
 				2512371318BC37A200E4340F /* Images.xcassets in Resources */,
+				2512373918BC37C700E4340F /* Sporting KC.jpeg in Resources */,
 				2512370518BC37A200E4340F /* InfoPlist.strings in Resources */,
-				2512370E18BC37A200E4340F /* Main.storyboard in Resources */,
+				2512373618BC37C700E4340F /* LA Galaxy.jpg in Resources */,
+				2512373718BC37C700E4340F /* NY Red Bulls.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2512373C18BC39D700E4340F /* MLS.m in Sources */,
 				2512370B18BC37A200E4340F /* JJAppDelegate.m in Sources */,
 				2512371118BC37A200E4340F /* JJViewController.m in Sources */,
 				2512370718BC37A200E4340F /* main.m in Sources */,
@@ -281,14 +303,6 @@
 				2512370418BC37A200E4340F /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		2512370C18BC37A200E4340F /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2512370D18BC37A200E4340F /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		2512372218BC37A200E4340F /* InfoPlist.strings */ = {
@@ -461,6 +475,7 @@
 				2512372B18BC37A200E4340F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2512372C18BC37A200E4340F /* Build configuration list for PBXNativeTarget "Soccer Teams Array PracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +484,7 @@
 				2512372E18BC37A200E4340F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
